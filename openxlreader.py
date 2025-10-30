@@ -36,4 +36,4 @@ def read_and_print_excel_data(file_path):
 # Call the function with your file name
 # Make sure 'your_file_name.xlsx' is in the same directory as the script
 # or provide the full path to the file.
-read_and_print_excel_data('db-ens-bc.xlsx')
+read_and_print_excel_data('db-ens-RL.xlsx')
