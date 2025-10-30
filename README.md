@@ -1,0 +1,1 @@
+pagina simple de clase
