@@ -1,1 +1,1 @@
-pagina simple de clase
+clase primera pagina simple
